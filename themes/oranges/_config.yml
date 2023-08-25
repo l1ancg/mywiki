@@ -151,14 +151,6 @@ footer:
   #     icon: twitter
   #     path:
   #   -
-  #     name: wechat
-  #     icon: wechat
-  #     path:
-  #   -
-  #     name: weibo
-  #     icon: weibo
-  #     path:
-  #   -
   #     # rss需安装 hexo-generator-feed 插件
   #     # 具体参照https://github.com/hexojs/hexo-generator-feed
   #     name: rss
@@ -169,12 +161,12 @@ footer:
     -
       name: Copyright © Oranges 2021
       path: 
-    -
-      name: Theme by Oranges
-      path: https://github.com/zchengsite/hexo-theme-oranges
-    -
-      name: Powered by Hexo
-      path: 
+    # -
+    #   name: Theme by Oranges
+    #   path: https://github.com/zchengsite/hexo-theme-oranges
+    # -
+    #   name: Powered by Hexo
+    #   path: 
 
 # 文章搜索
 search:
