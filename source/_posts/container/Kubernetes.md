@@ -34,7 +34,7 @@ tags:
 
 缩略图：
 
-![Kubernetes/struct.drawio.png](/Kubernetes/struct.drawio.png)
+![](/images/kubernetes/struct.drawio.png)
 
 ### 1 Deployment
 
@@ -272,17 +272,17 @@ spec:
 
 ##### 1.1 userspace 代理模式
 
-![](Kubernetes/userspace.drawio.png)
+![](/images/kubernetes/userspace.drawio.png)
 
 ##### 1.2 iptables 代理模式
 
-![](Kubernetes/iptables.drawio.png)
+![](/images/kubernetes/iptables.drawio.png)
 
 ##### 1.3 IPVS 代理模式
 
 需在kube-proxy启动前使IPVS已经处于可用状态，未检测到IPVS模块时，自动切换至iptables代理模式
 
-![](Kubernetes/ipvs.drawio.png)
+![](/images/kubernetes/ipvs.drawio.png)
 
 ### 2 服务类型
 
