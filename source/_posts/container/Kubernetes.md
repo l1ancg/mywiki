@@ -34,7 +34,7 @@ tags:
 
 缩略图：
 
-![Kubernetes/struct.drawio.png](./Kubernetes/struct.drawio.png)
+![Kubernetes/struct.drawio.png](/Kubernetes/struct.drawio.png)
 
 ### 1 Deployment
 
