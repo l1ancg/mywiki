@@ -180,9 +180,9 @@ footer:
     -
       name: Copyright © {thisYear} L1ancg
       path: https://github.com/l1ancg
-    # -
-    #   name: Theme by Oranges | Powered by Hexo
-    #   path: https://github.com/zchengsite/hexo-theme-oranges
+    -
+      name: Theme by Oranges | Powered by Hexo
+      path: https://github.com/zchengsite/hexo-theme-oranges
 
 # 文章搜索
 search:
