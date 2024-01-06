@@ -73,3 +73,6 @@ poetry config virtualenvs.in-project true
 ```
 
 ### 4.2 现有项目使用poetry管理依赖
+```bash
+cat requirements.txt | xargs poetry add
+```
